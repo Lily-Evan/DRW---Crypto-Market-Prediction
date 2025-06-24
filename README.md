@@ -6,7 +6,11 @@ This repository contains my solution and experimentation for the DRW Crypto Pric
 📅 Duration: March 2024 – June 2025
 📊 Objective: Predict short-term price movements in crypto futures using anonymized proprietary features and public market data.
 
-🧠 My Contribution
+
+## 🧠 My Contribution
+
+🎉 I ranked **61st out of 1,584 participants** on **June 24, 2025**!
+
 As a participant, I explored various machine learning models and data processing techniques to extract meaningful signals from high-dimensional and noisy crypto market data. My focus areas included:
 
 Feature engineering and selection from production and public datasets
